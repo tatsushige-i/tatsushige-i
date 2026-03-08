@@ -1,6 +1,8 @@
-## 🔧 About
+# Hi there! 👋 Welcome to my GitHub
 
-Software engineer specializing in backend (API and batch) development.
+## 🌱 About
+
+Software engineer specializing in backend (API and batch) development.  
 Exploring designs that integrate AI into practical, production-level workflows.
 
 ---
@@ -20,7 +22,7 @@ Treating LLMs not as mere assistants, but as part of the design itself, with con
 
 ---
 
-## 📐 Engineering Principles
+## 💡 Engineering Principles
 
 - Introduce automation only with a clear purpose
 - Use CI as the standard for quality
