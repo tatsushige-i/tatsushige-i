@@ -1,11 +1,11 @@
-# About
+## 🔧 About
 
 Software engineer specializing in backend (API and batch) development.
 Exploring designs that integrate AI into practical, production-level workflows.
 
 ---
 
-# AI Integration
+## 🤖 AI Integration
 
 Leveraging LLMs including Claude, with a focus on designing and validating their integration into development processes.
 
@@ -20,7 +20,7 @@ Treating LLMs not as mere assistants, but as part of the design itself, with con
 
 ---
 
-# Engineering Principles
+## 📐 Engineering Principles
 
 - Introduce automation only with a clear purpose
 - Use CI as the standard for quality
@@ -29,7 +29,7 @@ Treating LLMs not as mere assistants, but as part of the design itself, with con
 
 ---
 
-# Tech Stack
+## 🛠 Tech Stack
 
 - Java / Spring Boot
 - REST API design
