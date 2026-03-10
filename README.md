@@ -2,7 +2,7 @@
 
 ## 🌱 About
 
-Software engineer specializing in backend (API and batch) development.  
+Software engineer specializing in backend (API and batch) development.
 Exploring designs that integrate AI into practical, production-level workflows.
 
 ---
@@ -10,6 +10,7 @@ Exploring designs that integrate AI into practical, production-level workflows.
 ## 🤖 AI Integration
 
 Leveraging LLMs including Claude, with a focus on designing and validating their integration into development processes.
+Treating LLMs not as mere assistants, but as part of the design itself, with continuous evaluation and improvement.
 
 Key areas of focus:
 
@@ -17,8 +18,6 @@ Key areas of focus:
 - Defining the scope of test generation
 - Improving reproducibility in prompt management
 - Designing quality control processes for AI outputs
-
-Treating LLMs not as mere assistants, but as part of the design itself, with continuous evaluation and improvement.
 
 ---
 
