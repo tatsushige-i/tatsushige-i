@@ -11,6 +11,7 @@ Exploring designs that integrate AI into practical, production-level workflows.
 
 Leveraging LLMs including Claude, with a focus on designing and validating their integration into development processes.
 Treating LLMs not as mere assistants, but as part of the design itself, with continuous evaluation and improvement.
+Actively shaping AI behavior through harness engineering — crafting skills, rules, and hooks that embed engineering standards directly into the development loop.
 
 Key areas of focus:
 
